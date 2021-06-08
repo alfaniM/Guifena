@@ -74,74 +74,77 @@ We are trying to solve illegal logging problem which is a real problem not only 
 ### Installation
 
 1. Download Guifena Application [Download](https://github.com/bangkit-cap0423/Guifena/releases/tag/v1.0.0)
-   ```sh
-   https://github.com/bangkit-cap0423/Guifena/releases/tag/v1.0.0
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+2. Install on your Android devices.
+3. Guifena Transmitter will record the audio at the forest.
+4. You will receive notification and alert if the audio sent is a chainsaw sound.
+5. Guifena app will display the detail of the incident.
+6. You can see all sensors location on the map.
 
-<!-- USAGE EXAMPLES -->
 
-## Usage
+## Preview Application
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Guifena
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<p align="center"> 
+    <img src="https://i.imgur.com/Exfk7rB.jpg"
+        alt="Dashboard"    
+        style="margin-right: 50px;"    
+        width="225" />
+    <img src="https://i.imgur.com/0SngcoT.jpg"
+        alt="Censor"    
+        style="margin-right: 50px;"    
+        width="225" />
+    <img src="https://i.imgur.com/ySI9pEs.jpg"
+        alt="Incident"    
+        style="margin-right: 50;"    
+        width="225" />
+</p>
 
-<!-- ROADMAP -->
+### Guifena Transmitter
 
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+<p align="center"> 
+    <img src="https://i.imgur.com/1vJQrTe.jpg"
+        alt="Add"    
+        style="margin-right: 50px;"    
+        width="225" />
+    <img src="https://i.imgur.com/kSx6HeJ.jpg"
+        alt="View"    
+        style="margin-right: 50px;"    
+        width="225" />
+</p>
 
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Muhammad Rizky  - [Linkldn](https://linkldn.com/twitter_handle) - A2282212@bangkit.academy
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Taufan M. F. T. - A2292233@bangkit.academy
+
+Muhammad Aulia Alfani - C2242156@bangkit.academy
+
+Budi Arjaya Wida - C0151400@bangkit.academy
+
+Wibi Putra Perdana Suhendra - M2992700@bangkit.academy
+
+Muhammad Riefky Hadid - M0121250@bangkit.academy
+
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## Acknowledgements
-
-- []()
-- []()
-- []()
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/bangkit-cap0423/Guifena.svg?style=for-the-badge
+[contributors-url]: https://github.com/bangkit-cap0423/Guifena/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bangkit-cap0423/Guifena.svg?style=for-the-badge
+[forks-url]: https://github.com/bangkit-cap0423/Guifena/network/members
+[stars-shield]: https://img.shields.io/github/stars/bangkit-cap0423/Guifena.svg?style=for-the-badge
+[stars-url]: https://github.com/bangkit-cap0423/Guifena/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bangkit-cap0423/Guifena.svg?style=for-the-badge
+[issues-url]: https://github.com/bangkit-cap0423/Guifena/issues
+[license-shield]: https://img.shields.io/github/license/bangkit-cap0423/Guifena.svg?style=for-the-badge
+[license-url]: https://github.com/bangkit-cap0423/Guifena/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/bangkit-cap0423
