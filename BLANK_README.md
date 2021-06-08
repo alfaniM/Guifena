@@ -61,6 +61,13 @@ We are trying to solve illegal logging problem which is a real problem not only 
 - [PostgreSQL](https://www.postgresql.org/)
 - [Compute Engine](https://cloud.google.com/compute)
 
+### Repository
+1. [Guifena](https://github.com/Guifena) This is our main app. With this app, you will get realtime info about the sensors, incidents, and it will notify you if the Guifena Transmitter app detect a chainsaw sound. <br />
+2. [Guifena Transmitter](https://github.com/Guifena-Transmitter)<br />
+3. [Guifena Beckend](https://github.com/Guifena-backend)<br />
+4. [Guifena ML](https://github.com/Guifena-ML)
+
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -110,17 +117,13 @@ We are trying to solve illegal logging problem which is a real problem not only 
 
 ## Contact
 
-Muhammad Rizky  - [Linkldn](https://linkldn.com/twitter_handle) - A2282212@bangkit.academy
+[Muhammad Rizky](https://www.instagram.com/arrkariz/) - A2282213@bangkit.academy<br />
+[Taufan M. F. T ](https://www.instagram.com/riefky_hadid/) - A2292233@bangkit.academy<br />
+[Muhammad Aulia Alfani ](https://www.instagram.com/m.alfaniii/) - c2242156@bangkit.academy<br />
+[Budi Arjaya Wida ](https://www.instagram.com/budi_arj/) - c0151400@bangkit.academy<br />
+[Wibi Putra Perdana Suhendra ](https://www.instagram.com/wbshndr/) - m2992700@bangkit.academy<br />
+[Muhammad Riefky Hadid ](https://www.instagram.com/riefky_hadid/) - m0121250@bangkit.academy<br />
 
-Taufan M. F. T. - A2292233@bangkit.academy
-
-Muhammad Aulia Alfani - C2242156@bangkit.academy
-
-Budi Arjaya Wida - C0151400@bangkit.academy
-
-Wibi Putra Perdana Suhendra - M2992700@bangkit.academy
-
-Muhammad Riefky Hadid - M0121250@bangkit.academy
 
 
 <!-- ACKNOWLEDGEMENTS -->
