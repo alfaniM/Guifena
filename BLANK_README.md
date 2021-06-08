@@ -35,9 +35,9 @@
   <h3 align="center">Guifena</h3>
 
   <p align="center">
-    An all-in-one illegal logging detector and alerting system.
-     This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
-
+  An all-in-one illegal logging detector and alerting system.
+   This is a project to fulfill the  <a href="https://grow.google/intl/id_id/bangkit/"><strong>Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka »</strong></a>
+   Program.
     <br />
     <a href="https://github.com/bangkit-cap0423/Guifena"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,8 +46,7 @@
     ·
     <a href="https://github.com/bangkit-cap0423/Guifena">Report Bug</a>
     ·
-    <a href="https://github.com/bangkit-cap0423/Guifena">Request Feature</a>
-
+    <a href="https://github.com/bangkit-cap0423/Guifena/issues">Request Feature</a>
   </p>
 </p>
 
