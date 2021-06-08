@@ -71,23 +71,11 @@ We are trying to solve illegal logging problem which is a real problem not only 
 <!-- GETTING STARTED -->
 
 ## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-1. Clone the repo
+1. Download Guifena Application [Download](https://github.com/bangkit-cap0423/Guifena/releases/tag/v1.0.0)
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   https://github.com/bangkit-cap0423/Guifena/releases/tag/v1.0.0
    ```
 2. Install NPM packages
    ```sh
