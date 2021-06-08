@@ -118,7 +118,7 @@ We are trying to solve illegal logging problem which is a real problem not only 
 ## Contact
 
 [Muhammad Rizky](https://www.instagram.com/arrkariz/) - A2282213@bangkit.academy<br />
-[Taufan M. F. T ](https://www.instagram.com/riefky_hadid/) - A2292233@bangkit.academy<br />
+[Taufan M. F. T ](https://www.instagram.com/taufan_mft/) - A2292233@bangkit.academy<br />
 [Muhammad Aulia Alfani ](https://www.instagram.com/m.alfaniii/) - c2242156@bangkit.academy<br />
 [Budi Arjaya Wida ](https://www.instagram.com/budi_arj/) - c0151400@bangkit.academy<br />
 [Wibi Putra Perdana Suhendra ](https://www.instagram.com/wbshndr/) - m2992700@bangkit.academy<br />
