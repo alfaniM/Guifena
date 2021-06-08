@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/bangkit-cap0423/Guifena">
-    <img src="https://i.imgur.com/s3lsaLj.png" alt="Logo" width="400dp">
+    <img src="https://i.imgur.com/s3lsaLj.png" alt="Logo" width="600dp">
   </a>
 
   <h3 align="center">Guifena</h3>
@@ -35,17 +35,10 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#machine-learning-development-documentation">Machine Learning Development Documentation</a></li>
-        <li><a href="#mobile-development-documentation">Mobile Development Documentation</a></li>
-        <li><a href="#cloud-computing-documentation">Cloud Computing Documentation</a></li>
-      </ul>
+    <li><a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#preview-application">Preview Application</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -85,7 +78,7 @@ We are trying to solve illegal logging problem which is a real problem not only 
 
 ### Guifena
 
-<p align="center"> 
+<p align="Left"> 
     <img src="https://i.imgur.com/Exfk7rB.jpg"
         alt="Dashboard"    
         style="margin-right: 50px;"    
@@ -102,7 +95,7 @@ We are trying to solve illegal logging problem which is a real problem not only 
 
 ### Guifena Transmitter
 
-<p align="center"> 
+<p align="Left"> 
     <img src="https://i.imgur.com/1vJQrTe.jpg"
         alt="Add"    
         style="margin-right: 50px;"    
