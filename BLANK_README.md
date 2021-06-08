@@ -85,8 +85,8 @@ We are trying to solve illegal logging problem which is a real problem not only 
 
 ### Built With
 
-- [Android]()
-- [Kotlin]()
+- [Android](https://www.android.com/)
+- [Kotlin](https://kotlinlang.org/)
 - [Tenserflow](https://www.tensorflow.org/)
 - [Django](https://www.djangoproject.com/)
 - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging)
